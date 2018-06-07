@@ -1,3 +1,7 @@
-%{"inch_ex": {:hex, :inch_ex, "0.5.1", "c1c18966c935944cbb2d273796b36e44fab3c54fd59f906ff026a686205b4e14", [:mix], [{:poison, "~> 1.5 or ~> 2.0", [hex: :poison, optional: false]}]},
+%{
+  "benchee": {:hex, :benchee, "0.13.1", "bd93ca05be78bcb6159c7176230efeda2f724f7ffd485515175ca411dff4893e", [:mix], [{:deep_merge, "~> 0.1", [hex: :deep_merge, repo: "hexpm", optional: false]}], "hexpm"},
+  "deep_merge": {:hex, :deep_merge, "0.1.1", "c27866a7524a337b6a039eeb8dd4f17d458fd40fbbcb8c54661b71a22fffe846", [:mix], [], "hexpm"},
+  "inch_ex": {:hex, :inch_ex, "0.5.1", "c1c18966c935944cbb2d273796b36e44fab3c54fd59f906ff026a686205b4e14", [:mix], [{:poison, "~> 1.5 or ~> 2.0", [hex: :poison, optional: false]}]},
   "mochiweb": {:hex, :mochiweb, "2.15.0", "e1daac474df07651e5d17cc1e642c4069c7850dc4508d3db7263a0651330aacc", [:rebar3], []},
-  "poison": {:hex, :poison, "2.1.0", "f583218ced822675e484648fa26c933d621373f01c6c76bd00005d7bd4b82e27", [:mix], []}}
+  "poison": {:hex, :poison, "2.1.0", "f583218ced822675e484648fa26c933d621373f01c6c76bd00005d7bd4b82e27", [:mix], []},
+}
